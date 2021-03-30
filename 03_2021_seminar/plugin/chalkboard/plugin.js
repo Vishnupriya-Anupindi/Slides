@@ -67,7 +67,7 @@ const initChalkboard = function(Reveal){
 	var rememberColor = [true, false];
 	var eraser = { src: path + 'img/sponge.png', radius: 20};
 	var boardmarkers = [
-		{ color: 'rgba(100,100,100,1)', cursor: 'url(' + path + 'img/boardmarker-black.png), auto'},
+		{ color: 'rgba(240,240,240,1)', cursor: 'url(' + path + 'img/boardmarker-black.png), auto'},
 		{ color: 'rgba(30,144,255, 1)', cursor: 'url(' + path + 'img/boardmarker-blue.png), auto'},
 		{ color: 'rgba(220,20,60,1)', cursor: 'url(' + path + 'img/boardmarker-red.png), auto'},
 		{ color: 'rgba(50,205,50,1)', cursor: 'url(' + path + 'img/boardmarker-green.png), auto'},
