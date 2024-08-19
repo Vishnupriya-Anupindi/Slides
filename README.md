@@ -1,5 +1,7 @@
 # Slides
 
+- [Column reduced digital nets (August 2024)](https://vishnupriya-anupindi.github.io/Slides/Anupindi_Digital_Nets_24/index.html)
+
 These are slides from previous talks.
 
 - [RICAM DM Seminar (March 2021)](https://vishnupriya-anupindi.github.io/Slides/03_2021_seminar/index.html)
