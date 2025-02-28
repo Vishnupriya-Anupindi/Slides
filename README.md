@@ -1,5 +1,6 @@
 # Slides
 
+- [ADWiM 2025 (Feb 2025)](https://vishnupriya-anupindi.github.io/Slides/ADWiM_25_Talk/index.html)
 - [Quality parameter for reduced digital nets (Sept 2024)](https://vishnupriya-anupindi.github.io/Slides/Anupindi_Digital_Nets_24/index.html)
 
 These are slides from previous talks.
